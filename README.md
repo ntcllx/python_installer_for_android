@@ -10,3 +10,8 @@ make a magiskModules dir on your phone root storage
 wireless adb to yourself pretty simple to do so
 termux go n dir and make if sucess it will be in the magiskModules dir in your storage
 
+i did not make module credit goes to @upya4ko
+
+heres zip
+
+[python_installer_for_android.zip](https://github.com/user-attachments/files/17792403/python_installer_for_android.zip)
